@@ -110,8 +110,4 @@
 - Ensures a secure and smooth payment experience for users.
 
 
-## 🌟 Acknowledgements
 
-- Thanks to the developers and contributors of MongoDB, Express.js, React.js, Node.js, Stripe, and Razorpay for their fantastic tools and libraries.
-
----
